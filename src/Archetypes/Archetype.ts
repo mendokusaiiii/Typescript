@@ -28,5 +28,4 @@ export default abstract class Archetype {
   static createdArchetypeInstances(): number {
     throw new Error('Not implemented');
   }
-
 }
