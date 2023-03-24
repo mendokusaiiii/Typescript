@@ -15,6 +15,6 @@ export default class Orc extends Race {
   }
 
   static createdRacesInstances(): number {
-      return Orc._numbersInstanceOrc;
+    return Orc._numbersInstanceOrc;
   }
 }
